@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dynamicwarrior7
+- 👋 Hi, I’m @SAGAR M N
 - 👀 I’m interested in web dev and other intresting courses
 - 🌱 I’m currently learning computer science engineering
 - 💞️ I’m looking to collaborate on ...
